@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1.4em;
+  color: #5cb85c;
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #5cb85c;
+}
+#header1-1 H1 {
+  color: #d8f1d5;
+}
+#msg-box4-2 .mbr-section-title {
+  color: #5cb85c;
+}
+#msg-box4-2 .lead {
+  color: #000000;
+}
+#msg-box5-3 .mbr-section-title {
+  color: #5cb85c;
+}
+#social-buttons1-d .mbr-section-title {
+  color: #5cb85c;
+}
+#features1-6 H4 {
+  text-align: right;
+}
+#testimonials1-7 .mbr-section-title {
+  color: #bbe8cc;
+}
+#social-buttons1-e .mbr-section-title {
+  color: #5cb85c;
+}
+#slider2-a H2 {
+  color: #000000;
+}
+#slider2-a P {
+  color: #000000;
+}
+
+
+#dropdown-menu-f .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-f .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-f .nav .link,
+#dropdown-menu-f .dropdown-item {
+  font-size: 1.4em;
+  color: #5cb85c;
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-f .navbar,
+#dropdown-menu-f .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-f .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-f .dropdown-menu a:hover,
+#dropdown-menu-f .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-f .navbar-toggler {
+  color: #5cb85c;
+}
